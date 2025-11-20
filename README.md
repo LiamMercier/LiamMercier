@@ -2,6 +2,6 @@
 
 ## Hello.
 
-You can find my PGP public key [here](public.asc).
+[PGP](public.asc) | [Resume](resume.pdf)
 
 </div>

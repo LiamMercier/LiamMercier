@@ -11,12 +11,12 @@ Otherwise, I have varying knowledge of and/or interest in:
 - Mathematics (Graphs, Abstract Algebra, Statistics)
 - Privacy & Anonymity (Especially modern threats and their mitigations)
 - Learning Optimization (Efficient instruction and learning methods)
+- Formal Verification (Mostly Dafny)
 - Mixnets & Meshnets (Tor, I2P, Yggdrasil)
 - Cryptography
 - Security
 - Automatic Planning (Mostly multi-agent pathfinding and state searching)
 - Stylometry & Steganography
-- Formal Verification
 
 Feel free to reach out.
 
